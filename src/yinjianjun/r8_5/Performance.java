@@ -1,4 +1,4 @@
-package r8_5;
+package yinjianjun.r8_5;
 
 import org.junit.Test;
 
