@@ -1,4 +1,4 @@
-package r8_1;
+package yinjianjun.r8_1;
 
 /**
  * Created by yinjianjun on 17-1-8.
