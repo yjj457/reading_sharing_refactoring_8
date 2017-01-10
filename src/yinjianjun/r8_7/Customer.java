@@ -1,4 +1,4 @@
-package r8_7;
+package yinjianjun.r8_7;
 
 import java.util.HashSet;
 import java.util.Set;

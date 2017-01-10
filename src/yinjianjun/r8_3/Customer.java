@@ -1,4 +1,4 @@
-package r8_3;
+package yinjianjun.r8_3;
 
 import javafx.scene.control.CustomMenuItem;
 
